@@ -1,3 +1,23 @@
+Metadata-Version: 2.4
+Name: parking-env
+Version: 0.0.7
+Summary: An environment for simulated parking lot tasks.
+Home-page: https://github.com/kexianshen/parking-env
+Author: Kexian Shen
+Author-email: shenkexian@gmail.com
+License: MIT
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: License :: OSI Approved :: MIT License
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: gymnasium
+Requires-Dist: numpy
+Requires-Dist: numba
+Requires-Dist: pygame
+Requires-Dist: scipy
+Dynamic: license-file
+
 # parking-env
 
 

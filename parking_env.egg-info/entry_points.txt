@@ -1,0 +1,2 @@
+[gymnasium.envs]
+__root__ = parking_env.__init__:register_env

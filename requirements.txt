@@ -1,0 +1,8 @@
+gym==0.26.2
+gymnasium==1.1.1
+numpy==1.26.4
+pygame==2.6.1
+matplotlib==3.9.4
+stable-baselines3[extra]==2.7.0
+torch==2.8.0
+imageio==2.36.0
